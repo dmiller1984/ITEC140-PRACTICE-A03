@@ -19,15 +19,15 @@ partial class Form1
     private void InitializeComponent()
     {
         SuspendLayout();
-        //
+        // 
         // Form1
-        //
+        // 
         AutoScaleDimensions = new SizeF(7F, 15F);
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(600, 400);
         Name = "Form1";
         StartPosition = FormStartPosition.CenterScreen;
-        Text = "PRACTICE ONLY - Wage Calculator";
+        Text = "PRACTICE ONLY- Wage Calculator";
         ResumeLayout(false);
     }
 
